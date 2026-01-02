@@ -216,6 +216,8 @@ Try doing the following:
 
 Choose any structure in your image.
 
+#### Plot Intensity Profile
+
 1. Click on **straight line button**
 2. Draw a line across your object of interest
 3. Go to `Analyze > Plot Profile`
@@ -224,6 +226,12 @@ Choose any structure in your image.
 ![Line profile image](assets/line_profile_image.png)
 
 ![Plot Profile image](assets/plot_profile.png)
+
+What happens if you right click on the straight line button?
+
+<--!
+Right clicking allows the user to choose the line width, which lets you draw the mean profile across the line with the chosen width.
+-->
 
 #### Measure Intensity
 1. Select an ROI (Region of Interest) using selection tools
